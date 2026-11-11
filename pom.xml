@@ -27,8 +27,8 @@
         </developer>
     </developers>
     <scm>
-        <url>https://github.com/FidelGenre/fiskit-java</url>
-        <connection>scm:git:https://github.com/FidelGenre/fiskit-java.git</connection>
+        <url>https://github.com/fiskitapp/fiskit-java</url>
+        <connection>scm:git:https://github.com/fiskitapp/fiskit-java.git</connection>
     </scm>
 
     <modules>
